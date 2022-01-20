@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Mansour0007/Social-proof-challenge)
-- Live Site URL: [Add live site URL here](https://trusting-khorana-40ecbc.netlify.app/)
+- Solution URL: [Add solution URL here] https://github.com/Mansour0007/Social-proof-challenge)
+- Live Site URL: [Add live site URL here] https://trusting-khorana-40ecbc.netlify.app/)
 
 ## My process
 
