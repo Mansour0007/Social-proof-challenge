@@ -127,7 +127,9 @@ body {
   padding-bottom: -10px;
   margin-top: 40px;
 }
-
+.dark-clr {
+  color: var(--soft-pink);
+}
 @media (max-width: 1000px) {
   .grid-wrapper {
     display: flex;
